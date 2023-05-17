@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MCJockey
-- 👀 I build responsive web applications using modern technologies that effectivelysolve client problems.
+- 👀 I build responsive web applications using modern technologies that effectively solve client problems.
 - Skills: HTML, CSS, Bootstrap, Git, Javascript, PHP, and SQL
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on ...
